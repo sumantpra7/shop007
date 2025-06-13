@@ -67,7 +67,7 @@ That conversation inspired me to build this offline, Java-based inventory manage
 
 ```bash
 1. Clone the repository:
-   git clone https://github.com/sumantpra7/shop07
+   git clone https://github.com/sumantpra7/shop007.git
 
 2. Open the project in IntelliJ IDEA (or any IDE of your choice)
 
